@@ -6,7 +6,8 @@ description: 标题为译者加
 
 ## 书籍主页
 
-作者维护的书籍主页会有最新的更新：[http://www.pianopractice.org/](http://www.pianopractice.org/)
+作者维护的书籍主页会有最新的更新：[http://www.pianopractice.org/](http://www.pianopractice.org/)  
+免费下载原文和补充材料。
 
 ## 致谢
 
