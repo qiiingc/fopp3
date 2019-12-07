@@ -1,14 +1,14 @@
 # Table of contents
 
 * [基础钢琴练习法（第三版）](README.md)
-* [扉页](zhi-xie.md)
-* [全书缩写](quan-shu-suo-xie.md)
-* [前言](qian-yan.md)
+* [扉页](title-page.md)
+* [全书缩写](abbreviations.md)
+* [前言](preface.md)
 
 ## 第一章 基础练琴法 <a id="chap1"></a>
 
-* [1.直觉版练琴步骤](chap1/zhi-jue-ban-lian-qin-bu-zhou.md)
-* [2.凳高、距离和姿势](chap1/2.-deng-gao-ju-li-he-zi-shi.md)
+* [1.直觉版练琴步骤](chap1/1.practice-routines.md)
+* [2.凳高、距离和姿势](chap1/2.bench-height.md)
 * [3.开始弹奏一份乐谱](chap1/3.-kai-shi-tan-zou-yi-fen-le-pu.md)
 * [4.弯指和直指、弯曲瘫痪](chap1/4.-wan-zhi-he-zhi-zhi-wan-qu-tan-huan.md)
 * [5.读谱和指法](chap1/5.-du-pu-he-zhi-fa.md)
