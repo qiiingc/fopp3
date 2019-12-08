@@ -10,7 +10,7 @@
 * [1.直觉版练琴步骤](chap1/1.practice-routines.md)
 * [2.凳高、距离和姿势](chap1/2.bench-height.md)
 * [3.开始弹奏一份乐谱](chap1/3.starting-a-piece.md)
-* [4.弯指和直指、弯曲瘫痪](chap1/4.-wan-zhi-he-zhi-zhi-wan-qu-tan-huan.md)
+* [4.弯指和直指手型、弯曲瘫痪](chap1/4.-wan-zhi-he-zhi-zhi-wan-qu-tan-huan.md)
 * [5.读谱和指法](chap1/5.-du-pu-he-zhi-fa.md)
 * [6.分手练习](chap1/6.-fen-shou-lian-xi.md)
 * [7.从难开始、片段练习和连续原则](chap1/7.-cong-nan-kai-shi-pian-duan-lian-xi-he-lian-xu-yuan-ze.md)
