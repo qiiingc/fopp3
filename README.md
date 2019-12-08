@@ -37,6 +37,6 @@ description: Fundamentals of Piano Practice(Third Edition) by Chuan C. Chang
 
 ## 联系作者
 
-请给作者的[电子邮箱](mailto:cc88m@aol.com)发送关于任何评论，建议，问题等，或写信给：   
+请给作者的[电子邮箱](mailto:cc88m@aol.com)发送任何评论，建议，问题等，或写信给：   
 C. C. Chang, 5705 Fayetteville Rd Apt. 2107, Durham, NC 27713, USA.
 
