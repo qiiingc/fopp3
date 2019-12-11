@@ -15,6 +15,7 @@
 * [6.单手练习](chap1/6.-fen-shou-lian-xi.md)
 * [7.从难开始、片段练习和连续原则](chap1/7.-cong-nan-kai-shi-pian-duan-lian-xi-he-lian-xu-yuan-ze.md)
 * [36.Hand Motions](chap1/36.hand-motions.md)
+* [70.三角钢琴、电钢琴和立式钢琴](chap1/70.-san-jiao-gang-qin-dian-gang-qin-he-li-shi-gang-qin.md)
 
 ## 第二章 与钢琴有关的信息 <a id="chap2"></a>
 
