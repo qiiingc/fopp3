@@ -18,10 +18,10 @@ description: Fundamentals of Piano Practice(Third Edition) by Chuan C. Chang
 
 ## 更新日志
 
-### 2019.12.08 v0.1.2
+### 2019.12.13 v0.1.3
 
-0.进度条：16/265  
-1.翻译至第\(4\)点
+0.进度条：22/265  
+1.翻译至第\(5\)点、第\(31\)点、第\(70\)点
 
 ### 2019.12.06 v0.1.0
 
