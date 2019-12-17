@@ -12,7 +12,7 @@ description: Fundamentals of Piano Practice(Third Edition) by Chuan C. Chang
 
 | **当前进度** | 所有翻译成员名单 | 翻译方式 |
 | :--- | :--- | :--- |
-| 16/265 | qiiingc | 每段由机器先翻译，人工再调整 |
+| 22/265 | qiiingc | 每段由机器先翻译，人工再调整 |
 
 欢迎提供翻译和网站维护帮助，Github上开issue或者发邮件联系1556758862@qq.com
 
